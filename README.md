@@ -1,5 +1,5 @@
 # Bank_Customer_Segmentation
-###Problem Statement:
+Problem Statement:
 You are a data scientist for a certain bank. User your unsupervised learning skills to segment the customers to clusters.
 • Understand and learn the dataset.
 • Clean the Data as best as possible:
